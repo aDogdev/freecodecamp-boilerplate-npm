@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Adrian Martínez",
   "description": "A project about backend development",
+  "keywords": [
+    "freecodecamp",
+    "backend",
+    "node.js"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
