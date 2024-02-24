@@ -1,6 +1,6 @@
 {
-  "author": "Adrian Martínez",
   "name": "fcc-learn-npm-package-json",
+  "author": "Adrian Martínez",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -10,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+    "url": "https://github.com/aDogdev/freecodecamp-boilerplate-npm.git"
   }
 }
